@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+table {
+  margin-top: 150px;
+  text-align: center;
+}
+td {
+  padding: 10px;
+}
+
+#site {
+  color: blueviolet;
+}
+#project {
+  color: teal;
+}
+#green {
+  background-color: teal;
+}
